@@ -94,6 +94,8 @@ class Cam_File_Sink():
                                 }               
 
                             inference_message = json.dumps(inference_obj) 
+                            print(f"Total INference start: \n {result}\n")  
+                            print(f"Total INference end: \n {result}\n")  
                             print(f"Inference Message: \n {inference_message}\n")                                                    
 
                             for i in range(detection_count):

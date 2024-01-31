@@ -1,3 +1,7 @@
 coke
 diet_coke
 sprite
+Monkey
+Monkeys
+monkey
+monkeys
